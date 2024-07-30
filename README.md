@@ -172,6 +172,8 @@ def Connet_ChatGPT(fruit_name):
 
 ```
 
+---
+
 ## 檔案統整
 * 將 `main.py`  `labels.txt`  `keras_model.h5`  `ChatGPTAPI.py` 設置於同個資料夾
 * 修改 `main.py` 程式碼為
