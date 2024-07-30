@@ -24,7 +24,7 @@
 
 ---
 
-## 安裝Tensorflow
+## 安裝Tensorflow(2.12.0)
 
 ### 用pip安裝Tensorflow
 * 打開命令提示符（Command Prompt）。
