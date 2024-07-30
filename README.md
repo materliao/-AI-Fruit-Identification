@@ -1,5 +1,5 @@
 # ChatGPT fruit information identification
-## 安裝Python
+## 安裝Python(3.11.9)
 ### 下載安裝包：
 
 * 前往 [Python的官方網站](https://www.python.org/downloads/)。
